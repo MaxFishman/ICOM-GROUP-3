@@ -39,3 +39,12 @@ Session pricing + calendar
 5. About
 
 Founded by producers and engineers passionate about sound design.
+
+
+Every group should assign:
+	1.	Product Lead / Project Manager
+	2.	UX Designer
+	3.	UI / Visual Designer
+	4.	Frontend Developer (Layout)
+	5.	Frontend Developer (Interaction)
+	6.	Quality Assurance and Debugging 
